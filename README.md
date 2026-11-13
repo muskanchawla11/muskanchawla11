@@ -11,7 +11,6 @@
 
 ### Side projects
 - **[Prepwise](https://github.com/muskanchawla11/prepwise)** — AI voice mock-interview app (Next.js 15, Firebase, Zod, Web Speech API)
-- **[Portfolio](https://muskan-portfolio-one.vercel.app)**
 
 ### Stack
 `TypeScript` `Node.js` `NestJS` `Express` `PostgreSQL` `Prisma` `Redis` `React` `Next.js` `React Native` `GCP` `Docker` `Jest`
